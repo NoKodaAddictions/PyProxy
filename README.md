@@ -31,3 +31,5 @@ If you want your program to exit immeadiately intentionally, add `SUBORDINATE` i
 # REMINDERS
 
 Please replace the `{{ PATH TO... }}` segments with the path to whatever PyProxy or CnR is looking for (Program manager, routeTo, etc)
+
+Use pyinstaller to compile the CnR source code and remember to set the default program to run .py files to CnR.exe
