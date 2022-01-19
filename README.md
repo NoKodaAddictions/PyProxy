@@ -27,3 +27,7 @@ Make sure to set the default program to run .py files to CnR.exe (`Catch n Rerou
 If you want your program to exit immeadiately intentionally, add `SUBORDINATE` in between the `!--_--~` tags and pyproxy will exit immediately.
 
 ![image](https://user-images.githubusercontent.com/66141548/150162907-775d2db7-e397-4256-ad54-756a90f0dcbf.png)
+
+# REMINDERS
+
+Please replace the `{{ PATH TO... }}` segments with the path to whatever PyProxy or CnR is looking for (Program manager, routeTo, etc)
